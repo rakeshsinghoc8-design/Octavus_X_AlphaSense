@@ -1,6 +1,11 @@
 {
-  "total_items": 15,
+  "total_items": 16,
   "items": [
+    {
+      "title": "Octavus Insights Corner - Companion Diagnostics",
+      "date": "2026-09-01",
+      "pdf_url": "https://rakeshsinghoc8-design.github.io/Octavus_X_AlphaSense/Companion_Diagnostics_Octavus_Sep_2026_Insights_Corner.pdf"
+    },
     {
       "title": "Octavus Insights Corner - AI in Drug Development",
       "date": "2026-08-01",

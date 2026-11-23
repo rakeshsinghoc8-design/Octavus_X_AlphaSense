@@ -1,6 +1,11 @@
 {
-  "total_items": 17,
+  "total_items": 18,
   "items": [
+    {
+      "title": "Octavus Insights Corner - CVCs",
+      "date": "2026-11-01",
+      "pdf_url": "https://rakeshsinghoc8-design.github.io/Octavus_X_AlphaSense/CVCs_Octavus_Nov_2026_Insights_Corner.pdf"
+    },
     {
       "title": "Octavus Insights Corner - RAS Inhibitors",
       "date": "2026-10-01",
